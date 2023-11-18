@@ -179,3 +179,12 @@ a {
   padding: 10px 20px;
   border-radius: 5px;
 }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-size: larger;
+  appearance: none;
+}
