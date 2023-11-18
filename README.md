@@ -1,8 +1,10 @@
 # Nemupy.github.io
 
 # Overview
-音夢?!のWebポートフォリオのソースコードです。    
+NemupyのWebポートフォリオのソースコードです。    
 GithubPagesを使って公開しています。    
+
+https://nemupy.github.io/    
 
 # Requirement
 ・Github Pages    
